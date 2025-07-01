@@ -1,4 +1,4 @@
-# 🐧 Penguin Classification using KNN and Naive Bayes 📊
+# 🐧 Penguin Classification using KNN and Naive Bayes
 
 This project explores the classification of penguin species by evaluating two popular machine learning algorithms: K-Nearest Neighbours (KNN) and Naive Bayes. The analysis aims to determine which algorithm performs best for classification based on different metrics. The notebook includes data loading, cleaning, and visualisation, followed by model training (with and without cross-validation), hyperparameter tuning, and comprehensive evaluation. The performance of the models is assessed using confusion matrices, precision, recall, F1-score, ROC curves, and Area Under the Curve (AUC). Additionally, the impact of Principal Component Analysis (PCA) on the performance of these models is investigated.
 
